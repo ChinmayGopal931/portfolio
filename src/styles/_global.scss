@@ -1,0 +1,67 @@
+@import 'variables';
+
+* {
+  font-family: 'Comfortaa', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--background);
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 200;
+  font-kerning: normal;
+}
+
+.page {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader {
+  border: 4px solid #fff;
+  border-top: 4px solid #000;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 2s linear infinite;
+}
+
+.clickable {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (min-width: $medium) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: $tablet) {
+  html {
+    font-size: 1.8vh;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+  }
+}
