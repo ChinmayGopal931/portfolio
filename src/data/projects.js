@@ -8,7 +8,6 @@ const projects = [
   {
     title: '88mph',
     desc: 'Created a new feature for 88mph’s protocol. Project further modularizes leveraged long and short positions in crypto, make them more accessible, and make use of yield tokens. I was the Full Stack developer in this project and worked with React, Javascript and solidity.',
-    links: ['https://kernel.community/en/'],
     repo: 'https://github.com/88mphapp/Phantasm',
     logo: logo88,
   },
