@@ -1,4 +1,4 @@
-import { dsc, increment, daohaus, minty} from '../assets/projects';
+import increment from '../assets/projects';
 import favicon from '../assets/projects/favicon.png'
 import logo88 from '../assets/projects/logo88new.png'
 import abb from '../assets/projects/abblogo.png'
