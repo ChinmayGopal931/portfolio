@@ -1,15 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ecefaa31.css",
-    "main.js": "/portfolio/static/js/main.3517e9ac.js",
+    "main.js": "/portfolio/static/js/main.3111b62b.js",
     "static/media/killua.png": "/portfolio/static/media/killua.937f22f0f9665ad952bd.png",
     "static/media/logo88new.png": "/portfolio/static/media/logo88new.2cc0f2ce917b3b9a33ac.png",
     "static/media/increment.png": "/portfolio/static/media/increment.fbcba6dace0e90221c42.png",
-    "static/media/kernel.png": "/portfolio/static/media/kernel.bafbf0d7f2cde4b8a19f.png",
     "static/media/abblogo.png": "/portfolio/static/media/abblogo.21c6f5feead9702bf9f3.png",
-    "static/media/dsc.png": "/portfolio/static/media/dsc.dbde63b9bfba06023a75.png",
-    "static/media/daohaus.png": "/portfolio/static/media/daohaus.f482e6e03fc1940e2d57.png",
-    "static/media/minty.png": "/portfolio/static/media/minty.5bbc04b21f92443ae520.png",
     "static/media/favicon.png": "/portfolio/static/media/favicon.f828cb9cf9e106507e6d.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "static/media/github.svg": "/portfolio/static/media/github.4838d36f1924c41f808acfe30e58f566.svg",
@@ -20,10 +16,10 @@
     "static/media/toggle.svg": "/portfolio/static/media/toggle.ea57cc9bb5dc8633148aa24569c5066c.svg",
     "static/media/toggle-close.svg": "/portfolio/static/media/toggle-close.78b3529182da61232bc269352f36e733.svg",
     "main.ecefaa31.css.map": "/portfolio/static/css/main.ecefaa31.css.map",
-    "main.3517e9ac.js.map": "/portfolio/static/js/main.3517e9ac.js.map"
+    "main.3111b62b.js.map": "/portfolio/static/js/main.3111b62b.js.map"
   },
   "entrypoints": [
     "static/css/main.ecefaa31.css",
-    "static/js/main.3517e9ac.js"
+    "static/js/main.3111b62b.js"
   ]
 }
