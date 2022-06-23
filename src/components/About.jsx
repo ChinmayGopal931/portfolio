@@ -26,7 +26,7 @@ export default function About() {
             the traditional Web2 space where I focused heavily on creating
             attractive, functional interfaces using a wide range of front-end
             technologies and frameworks. Recently I have been working as a 
-            freelance developer at multiple companies to help build out their Front-end.
+            freelance developer at multiple companies to help build out their Front-end code.
           </p>
         </div>
         <div className="profile" ref={profileContainer}>

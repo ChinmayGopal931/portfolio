@@ -12,6 +12,7 @@ function App() {
 
   return (
     <>
+    <title>Chinmay Gopal</title>
       <Particles options={particlesOptions} init={particlesInit} />
       <Header />
       <Home />
