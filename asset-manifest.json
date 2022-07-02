@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ecefaa31.css",
-    "main.js": "/portfolio/static/js/main.3111b62b.js",
+    "main.js": "/portfolio/static/js/main.3087e3d8.js",
     "static/media/killua.png": "/portfolio/static/media/killua.937f22f0f9665ad952bd.png",
     "static/media/logo88new.png": "/portfolio/static/media/logo88new.2cc0f2ce917b3b9a33ac.png",
     "static/media/increment.png": "/portfolio/static/media/increment.fbcba6dace0e90221c42.png",
     "static/media/abblogo.png": "/portfolio/static/media/abblogo.21c6f5feead9702bf9f3.png",
+    "static/media/ubc.png": "/portfolio/static/media/ubc.5c8562754275716de6f2.png",
     "static/media/favicon.png": "/portfolio/static/media/favicon.f828cb9cf9e106507e6d.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "static/media/github.svg": "/portfolio/static/media/github.4838d36f1924c41f808acfe30e58f566.svg",
+    "static/media/r.svg": "/portfolio/static/media/r.09f59b228b67847fa9c917396a218b25.svg",
     "index.html": "/portfolio/index.html",
     "static/media/link.svg": "/portfolio/static/media/link.51cf0c9bae1ef7cdd24d1812007745b2.svg",
     "static/media/paper-plane.svg": "/portfolio/static/media/paper-plane.60745cb255d3af77b716116269fca23e.svg",
@@ -16,10 +18,10 @@
     "static/media/toggle.svg": "/portfolio/static/media/toggle.ea57cc9bb5dc8633148aa24569c5066c.svg",
     "static/media/toggle-close.svg": "/portfolio/static/media/toggle-close.78b3529182da61232bc269352f36e733.svg",
     "main.ecefaa31.css.map": "/portfolio/static/css/main.ecefaa31.css.map",
-    "main.3111b62b.js.map": "/portfolio/static/js/main.3111b62b.js.map"
+    "main.3087e3d8.js.map": "/portfolio/static/js/main.3087e3d8.js.map"
   },
   "entrypoints": [
     "static/css/main.ecefaa31.css",
-    "static/js/main.3111b62b.js"
+    "static/js/main.3087e3d8.js"
   ]
 }
