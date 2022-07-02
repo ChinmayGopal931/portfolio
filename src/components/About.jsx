@@ -21,12 +21,12 @@ export default function About() {
           <h2>About</h2>
           <p>
             I’m a Front-End Developer in the growing Web3 ecosystem and I’ve
-            been working on projects relating to DeFi, NFTs and DAOs since early
-            2021. Before learning about decentralization I spent time working in
-            the traditional Web2 space where I focused heavily on creating
-            attractive, functional interfaces using a wide range of front-end
-            technologies and frameworks. Recently I have been working as a 
-            freelance developer at multiple companies to help build out their Front-end code.
+            been working on projects relating to DeFi, NFTs and DAOs since 2020.
+            Since then I have worked with numerous Protocols and won multiple 
+            Hackathons. My goal is to have a fundimental understanding of the entire 
+            web3 stack and shift more towards backend development. Most recently I 
+            have been working as a freelance developer at multiple companies to help 
+            build out their Front-end code.
           </p>
         </div>
         <div className="profile" ref={profileContainer}>

@@ -2,9 +2,10 @@ import increment from '../assets/projects/increment.png';
 import favicon from '../assets/projects/favicon.png'
 import logo88 from '../assets/projects/logo88new.png'
 import abb from '../assets/projects/abblogo.png'
+import ubc from '../assets/projects/ubc.png'
 
 
-const projects = [
+export const projects = [
   {
     title: '88mph',
     desc: 'Created a new feature for 88mph’s protocol. Project further modularizes leveraged long and short positions in crypto, make them more accessible, and make use of yield tokens. I was the Full Stack developer in this project and worked with React, Javascript and solidity.',
@@ -31,4 +32,13 @@ const projects = [
   },
 ];
 
-export default projects;
+export const education = [
+  {
+    title: 'UBC',
+    desc: 'Bachelor of Science with a Major in Computer Science.',
+    year: '2018-2022',
+    logo: ubc,
+  },
+];
+
+
