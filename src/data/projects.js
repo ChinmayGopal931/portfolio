@@ -3,20 +3,27 @@ import favicon from '../assets/projects/favicon.png'
 import logo88 from '../assets/projects/logo88new.png'
 import abb from '../assets/projects/abblogo.png'
 import ubc from '../assets/projects/ubc.png'
+import shil from '../assets/projects/shillogo.jpg'
 
 
 export const projects = [
   {
-    title: '88mph',
-    desc: 'Created a new feature for 88mph’s protocol. Project further modularizes leveraged long and short positions in crypto, make them more accessible, and make use of yield tokens. I was the Full Stack developer in this project and worked with React, Javascript and solidity.',
-    repo: 'https://github.com/88mphapp/Phantasm',
-    logo: logo88,
+    title: 'Shil.me',
+    desc: 'Lead Full Stack developer at Shil.me. The Project allows users to Display and interact with their NFTs. ',
+    links: ['https://shil.me/'],
+    logo: shil,
   },
   {
     title: 'Ithil Protocol',
     desc: 'Currently working contractually for Ithil to help build put their website. I am mainly focued on web3 aspect as well as testing smart contracts. Ithil is a generalised leveraged investments protocol allowing liquidity providers to stake any ERC20 token and earn fees. I am responsible for most web3 integrations.',
     logo: favicon,
     repo: 'https://github.com/Ithil-protocol/frontend',
+  },
+  {
+    title: '88mph',
+    desc: 'Created a new feature for 88mph’s protocol. Project further modularizes leveraged long and short positions in crypto, make them more accessible, and make use of yield tokens. I was the Full Stack developer in this project and worked with React, Javascript and solidity.',
+    repo: 'https://github.com/88mphapp/Phantasm',
+    logo: logo88,
   },
   {
     title: 'Increment (HackMoney Finalist)',
